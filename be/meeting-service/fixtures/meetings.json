@@ -1,0 +1,12 @@
+[
+  {
+    "id": "meeting-1",
+    "name": "Candidate Interview #1 - Aznaurov Ievgen",
+    "organizerId": "organizer-1"
+  },
+  {
+    "id": "meeting-2",
+    "name": "Candidate Interview #2 - Aznaurov Ievgen",
+    "organizerId": "organizer-2"
+  }
+]

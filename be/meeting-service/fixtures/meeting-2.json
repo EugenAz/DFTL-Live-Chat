@@ -1,0 +1,27 @@
+{
+  "id": "meeting-2",
+  "name": "Candidate Interview #2 - Aznaurov Ievgen",
+  "organizerId": "organizer-2",
+  "times": [
+    {
+      "start": "2024-04-21T13:00:00Z",
+      "end": "2024-04-21T14:00:00Z",
+      "votes": 1
+    },
+    {
+      "start": "2024-04-21T14:00:00Z",
+      "end": "2024-04-21T15:00:00Z",
+      "votes": 0
+    },
+    {
+      "start": "2024-04-21T15:00:00Z",
+      "end": "2024-04-21T16:00:00Z",
+      "votes": 7
+    },
+    {
+      "start": "2024-04-21T16:00:00Z",
+      "end": "2024-04-21T17:00:00Z",
+      "votes": 2
+    }
+  ]
+}
