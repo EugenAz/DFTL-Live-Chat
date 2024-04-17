@@ -13,6 +13,16 @@ Run:
 ```bash
 ./start.sh
 ```
+- **Organizer app** is running on http://localhost:8080
+- **Participation app** is running on http://localhost:8081
+- **meeting-service** is running on http://localhost:3000
+- **chat-service** is running on http://localhost:3001
+
+### Stopping the processes
+As `Ctrl+C` won't actually kill the processes running on the ports listed above, i've prepared a little helping script.
+```bash
+./stop.sh
+```
 
 ### Shortcuts, simplifications, skipped functionality
 1. In both FE apps authentication was simplified to bare naive minimum:
